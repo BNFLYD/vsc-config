@@ -1,0 +1,75 @@
+{
+  //custom styles
+  "vscode_custom_css.imports": [
+    "file:///D:/config/vscode_styles.css",
+    "file:///D:/config/blur.js"
+  ],
+
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "window.zoomLevel": 2,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.fontFamily": "ProFontWindows Nerd Font Mono",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.activityBar.location": "bottom",
+  "workbench.statusBar.visible": false,
+  "editor.minimap.autohide": true,
+  "editor.minimap.enabled": false,
+
+  // editor settings
+  "editor.copyWithSyntaxHighlighting": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.emptySelectionClipboard": false,
+  "workbench.editor.enablePreview": false,
+  "window.newWindowDimensions": "inherit",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "window.nativeFullScreen": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.editor.showTabs": "none",
+  "editor.lineNumbers": "off",
+  "editor.guides.indentation": false,
+
+  // Silence the Noise
+  "breadcrumbs.enabled": false,
+  "scm.diffDecorations": "none",
+  "editor.hover.delay": 1500,
+  "editor.hover.enabled": true,
+  "editor.matchBrackets": "never",
+  "workbench.tips.enabled": false,
+  "editor.colorDecorators": false,
+  "git.decorations.enabled": false,
+  "workbench.startupEditor": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "problems.decorations.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto"
+}
